@@ -1,0 +1,43 @@
+header{
+	background-color: #B1B1A9;
+	padding: 8px;
+
+}
+
+body{
+	background-color: #FAF5A4;
+
+}
+h1{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	color: rgb(32, 93, 118);     
+}
+.imagem{
+	    display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+    	width: 50%;
+
+}
+.imagem2 {
+    display: block;
+    margin-left: 30%;
+    width: 15%;
+}
+.bola {
+    border-radius: 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    border: 1px solid  #767179;
+    background-color:  #767179;
+}
+
+
+footer{
+	background-color: #FAA742;
+	text-align: center;
+	color: white;
+	padding: 8px;
+}
