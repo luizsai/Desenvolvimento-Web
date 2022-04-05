@@ -1,0 +1,53 @@
+header{
+	padding: 10px;
+	margin-right: 25px;
+}
+div.container{
+	padding-left:0px;
+	padding-right: 0px;
+	width: 1000px;
+}
+ul{
+	margin-right: 1px;
+}
+li{
+	display: inline;
+	padding: 10px;
+	text-align: right;
+}
+section{
+	display: inline-flex;
+	width: 100px;
+	
+}
+
+}
+
+h2{
+	text-align: justify-all;
+	padding: 5px;
+}
+p{
+	padding: 5px;
+	text-align: left;
+}
+
+.banner{
+    background-image: url('../imagens/banner.jpg'); 
+    background-size: auto;   
+    height: 450px; 
+    position: relative; 
+   
+}
+.caixa{
+	background-color: rgba(0.6, 0.6, 0.6, 0.6);
+	color: white;
+	width:400px;
+	height:150px;	
+	opacity:0, 0, 0, 0 ; 
+	position: relative;	
+}
+.img_article{
+	width: 230px;
+	padding:  10px;
+}
