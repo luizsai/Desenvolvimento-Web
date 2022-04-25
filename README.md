@@ -15,6 +15,7 @@ Abaixo segue alguns Links de paginas desenvolvidas ao longo do 1° bimestre da d
 <a href="https://luizsai.github.io/desenvolvimento-web/desingdigital/index.html">Desing Digital</a><br>
 <a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss/index.html">Desing Digital com CSS</a> Tentativa não muito legal<br>
 <a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-corrigido/index.html">Desing Digital Corrigido ja com CSS</a><br>
+<a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-responsivo/index.html">Desing Digital Corrigido ja com CSS responsivo e com MQ</a><br>
 <a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-responsivo-mq">Desing Digital Corrigido ja com CSS responsivo e com MQ</a><br>
 <a href=""></a><br>
 <a href=""></a><br>
