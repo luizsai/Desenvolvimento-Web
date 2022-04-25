@@ -11,7 +11,7 @@ Abaixo segue alguns Links de paginas desenvolvidas ao longo do 1° bimestre da d
 <a href="https://luizsai.github.io/desenvolvimento-web/aula02/index">Primeira pagina feita</a> Ja pesso desculpas, essa pagina esta longe de ser uma coisa bunita de se ver.<br>
 <a href="https://luizsai.github.io/desenvolvimento-web/aula03/index">Segunda pagina</a> Essa ainda não ficou melhor.<br>
 <a href="https://luizsai.github.io/desenvolvimento-web/desingdigital/index.html">Desing Digital</a><br>
-<a href="https://github.com/luizsai/desenvolvimento-web/blob/main/desingdigitalcss-corrigido/index.html">Desing Digital Corrigido</a><br>
+<a href=https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-corrigido/index.html">Desing Digital Corrigido ja com CSS</a><br>
 <a href=""></a><br>
 <a href=""></a><br>
 <a href=""></a><br>
