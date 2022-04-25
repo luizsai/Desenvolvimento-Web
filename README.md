@@ -8,7 +8,7 @@ eu sou o Luiz Henrique acadêmico do curso.<br>
 
 Abaixo segue alguns Links de paginas desenvolvidas ao longo do 1° bimestre da disciplina.<br>
 
-<a href="https://luizsai.github.io/desenvolvimento-web/aula02/index">Primeira pagina feita</a> Ja pesso desculpas, essa pagina esta longe de ser uma coisa bunita de se ver.<br>
+<a href="https://luizsai.github.io/desenvolvimento-web/aula02/index">Primeira pagina feita</a> Ja peço desculpas, essa pagina esta longe de ser uma coisa bunita de se ver.<br>
 <a href="https://luizsai.github.io/desenvolvimento-web/aula03/index">Segunda pagina</a> Essa ainda não ficou melhor.<br>
 <a href="https://luizsai.github.io/desenvolvimento-web/desingdigital/index.html">Desing Digital</a><br>
 <a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-corrigido/index.html">Desing Digital Corrigido ja com CSS</a><br>
