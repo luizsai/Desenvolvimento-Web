@@ -8,14 +8,13 @@ eu sou o Luiz Henrique acadêmico do curso.<br>
 
 Abaixo segue alguns Links de paginas desenvolvidas ao longo do 1° bimestre da disciplina.<br>
 
-<li>
-<a href="https://luizsai.github.io/desenvolvimento-web/aula02/index">Primeira pagina feita</a> Ja peço desculpas, essa pagina esta longe de ser uma coisa bunita de se ver.<br>
-<a href="https://luizsai.github.io/desenvolvimento-web/aula03/index">Segunda pagina</a> Essa ainda não ficou melhor.<br>
-<a href="https://luizsai.github.io/desenvolvimento-web/exerciciotuts-town/index.html">Exercicio Tuts</a> Tentativa falha.<br>
-<a href="https://luizsai.github.io/desenvolvimento-web/exerciciotutsresolvido/index.html">Exercicio Tuts</a> Corrigido durante a aula.<br>
-<a href="https://luizsai.github.io/desenvolvimento-web/desingdigital/index.html">Desing Digital</a> Iniciando o projeto, até que não foi tão ruim assim.<br>
-<a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss/index.html">Desing Digital com CSS</a> Tentativa não muito legal porem no caminho<br>
-<a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-corrigido/index.html">Desing Digital Corrigido ja com CSS</a> Começamdo as devidas correções <br>
-<a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-responsivo/index.html">Desing Digital Corrigido ja com CSS responsivo</a> Colocando uma responsividade baguala<br>
-<a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-responsivo-mq">Desing Digital Corrigido ja com CSS responsivo e com MQ</a> Agora colocando aquela media query pra dar elegancia.<br>
-<li>
+<li><a href="https://luizsai.github.io/desenvolvimento-web/aula02/index">Primeira pagina feita</a> Ja peço desculpas, essa pagina esta longe de ser uma coisa bunita de se ver.<br>
+<li><a href="https://luizsai.github.io/desenvolvimento-web/aula03/index">Segunda pagina</a> Essa ainda não ficou melhor.<br>
+<li><a href="https://luizsai.github.io/desenvolvimento-web/exerciciotuts-town/index.html">Exercicio Tuts</a> Tentativa falha.<br>
+<li><a href="https://luizsai.github.io/desenvolvimento-web/exerciciotutsresolvido/index.html">Exercicio Tuts</a> Corrigido durante a aula.<br>
+<li><a href="https://luizsai.github.io/desenvolvimento-web/desingdigital/index.html">Desing Digital</a> Iniciando o projeto, até que não foi tão ruim assim.<br>
+<li><a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss/index.html">Desing Digital com CSS</a> Tentativa não muito legal porem no caminho<br>
+<li><a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-corrigido/index.html">Desing Digital Corrigido ja com CSS</a> Começamdo as devidas correções <br>
+<li><a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-responsivo/index.html">Desing Digital Corrigido ja com CSS responsivo</a> Colocando uma <li>responsividade baguala<br>
+<li><a href="https://luizsai.github.io/desenvolvimento-web/desingdigitalcss-responsivo-mq">Desing Digital Corrigido ja com CSS responsivo e com MQ</a> Agora colocando aquela media query pra dar elegancia.<br>
+
