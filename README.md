@@ -8,5 +8,5 @@ eu sou o Luiz Henrique acadêmico do curso.<br>
 
 Abaixo segue alguns Links de paginas desenvolvidas ao longo do 1° bimestre da disciplina.<br>
 
-<a href="https://github.com/luizsai/desenvolvimento-web/tree/main/aula02">Primeira pagina feita</a>
+<a href="https://luizsai.github.io/desenvolvimento-web/aula02/index">Primeira pagina feita</a>
 
