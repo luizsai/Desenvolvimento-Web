@@ -4,5 +4,9 @@ Oi Ola Tudo bem???
 
 Se você caiu aqui de paraquedas e não sabe do que se trata essa pagina vou lhe dar uma pequena introdução.
 Essa é a pagina de avaliação da disciplina de Desenvolvimento Web Basico do curso de Analise e Desenvolvimento de Sistemas da Universidade Positivo,
-eu sou o Luiz Henrique acadêmico do curso.
+eu sou o Luiz Henrique acadêmico do curso.<br>
+
+Abaixo segue alguns Links de paginas desenvolvidas ao longo do 1° bimestre da disciplina.<br>
+
+<a href="https://github.com/luizsai/desenvolvimento-web/tree/main/aula02">Primeira pagina feita</a>
 
